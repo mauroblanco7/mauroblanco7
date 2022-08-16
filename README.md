@@ -42,16 +42,13 @@ Me gusta trabajar en equipo, pensar, proponer nuevas ideas y soy critico conmigo
 ## Contactame en: 
 - [Whatsapp]  📞 +54 9 2612535851
 - [Linkedin] 
-
+- [Email] 📧 mauro.blnc.mb@gmail.com
 
 
 
   [Whatsapp]: <https://web.whatsapp.com/>
   [Linkedin]: <https://www.linkedin.com/in/mauroblanco7/>
-   [JavaScript]: <https://www.javascript.com/>
-   [postgreSql]: <https://www.postgresql.org/>
-   [express]: <http://expressjs.com>
-   [ReactJS]: <https://es.reactjs.org/>
-   [Redux]: <https://es.redux.js.org/>
+  [Email]: <https://mail.google.com/mail/u/0/#inbox>
+ 
 
 
