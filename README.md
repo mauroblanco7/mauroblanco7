@@ -13,23 +13,26 @@ Me gusta trabajar en equipo, pensar, proponer nuevas ideas y soy critico conmigo
 - DomusFlow <br/>
 <a  href="https://travelbus-henry-96a9maamc-wal-hernandez.vercel.app/" target="_blank"></a> </br>
 Proyecto de gestor de departamentos en alquiler para llevar la contabilidad y la gestion de los mismos <br/><br/>
+https://fearless-victory-production.up.railway.app/login
 
-- BusPack Travel <br/>
+- Punto Viajes <br/>
 <a  href="https://github.com/mauroblanco7/Punto-Viajes-"></a> </br>
 Proyecto de Landing-Page para la empresa Punto Viajes <br/><br/>
-
+https://github.com/mauroblanco7/Punto-Viajes-
 
 - BusPack Travel <br/>
 <a  href="https://travelbus-henry-96a9maamc-wal-hernandez.vercel.app/" target="_blank"></a> </br>
 Proyecto grupal, se usaron metodologias SCRUM, implemente Firebase para el registro de usuarios, Stripe como pasarela de pagos, Bootstrap para los estilos <br/><br/>
-
+https://travelbus-henry-96a9maamc-wal-hernandez.vercel.app/
 
 - Dogs App <br/>
 <a  href="https://github.com/mauroblanco7/DOGS-APP" target="_blank"></a></br>
 Aprendi a conectar una api con mi base de datos, se uso react-readux para el frontend y postgreSql, sequelize para el backend <br/><br/>
+https://github.com/mauroblanco7/DOGS-APP
+
 - Pokemon app <br/>
 Proyecto individual, hice una pokedex con la API de pokemon, hice filtros y ordenamientos. Tambien implemente un formulario controlado de creacion de pokemons
-
+https://github.com/mauroblanco7/PI-pokemon-henry
 
 ## Tecnologias 💻
 
