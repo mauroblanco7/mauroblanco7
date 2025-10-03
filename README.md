@@ -11,15 +11,15 @@ Me gusta trabajar en equipo, pensar, proponer nuevas ideas y soy critico conmigo
 ## Proyectos ✅
 
 - BusPack Travel <br/>
-<a  href="https://travelbus-henry-96a9maamc-wal-hernandez.vercel.app/" target="_blank"><img src="https://media.discordapp.net/attachments/1009230548125888533/1009230632041324724/Buspack_Travel_-_Brave_16_8_2022_3_07_55_p._m._2.png?width=884&height=409" alt="html5" width="300" height="200"/></a> </br>
+<a  href="https://travelbus-henry-96a9maamc-wal-hernandez.vercel.app/" target="_blank"></a> </br>
 Proyecto grupal, se usaron metodologias SCRUM, implemente Firebase para el registro de usuarios, Stripe como pasarela de pagos, Bootstrap para los estilos <br/><br/>
 
 
 - Dogs App <br/>
-<a  href="https://github.com/mauroblanco7/DOGS-APP" target="_blank"><img src="https://media.discordapp.net/attachments/1009230548125888533/1009231872213143552/React_App_-_Brave_16_8_2022_7_45_19_p._m..png?width=768&height=409" alt="html5" width="300" height="200"/> </a></br>
+<a  href="https://github.com/mauroblanco7/DOGS-APP" target="_blank"></a></br>
 Aprendi a conectar una api con mi base de datos, se uso react-readux para el frontend y postgreSql, sequelize para el backend <br/><br/>
 - Pokemon app <br/>
- <a  href="https://github.com/mauroblanco7/PI-pokemon-henry" target="_blank"><img src="https://media.discordapp.net/attachments/1009230548125888533/1009233578372116530/Pokedex_-_Brave_16_8_2022_7_53_36_p._m..png?width=768&height=409" alt="html5" width="300" height="200"/>  </a></br>
+ <a  href="https://github.com/mauroblanco7/PI-pokemon-henry" target="_blank"</a></br>
 Proyecto individual, hice una pokedex con la API de pokemon, hice filtros y ordenamientos. Tambien implemente un formulario controlado de creacion de pokemons
 
 
@@ -63,7 +63,7 @@ Proyecto individual, hice una pokedex con la API de pokemon, hice filtros y orde
 
 
   [Whatsapp]: <https://web.whatsapp.com/>
-  [Linkedin]: <https://www.linkedin.com/in/mauroblanco7/>
+  [Linkedin]: <https://www.linkedin.com/in/mauroaugustoblanco/>
   [Email]: <https://mail.google.com/mail/u/0/#inbox>
  
 
